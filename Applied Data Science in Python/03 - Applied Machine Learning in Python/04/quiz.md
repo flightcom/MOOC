@@ -99,3 +99,18 @@ Faux: 2
 - Trees are easy to interpret and visualize
 
 ## Résultat: 10/10 !
+
+
+Mauricie du 6 au 7 et saint-hyppolite du 7 au 9
+
+
+
+Trois jours au meme endroit pres du parc de la mauricie:
+
+https://fr.airbnb.ca/rooms/14692124?adults=6&check_in=2017-10-06&check_out=2017-10-09&guests=6&location=Mauricie%2C+QC
+https://fr.airbnb.ca/rooms/12899882?adults=6&check_in=2017-10-06&check_out=2017-10-09&guests=6&location=Mauricie%2C%20QC&s=dg43t78U
+https://fr.airbnb.ca/rooms/5918294?adults=6&check_in=2017-10-06&check_out=2017-10-09&guests=6&location=Mauricie%2C%20QC&s=018QS2zy
+https://fr.airbnb.ca/rooms/17845263?guests=6&adults=6&children=0&infants=0&location=Mauricie%2C%20QC&check_in=2017-10-06&check_out=2017-10-09&s=GMDJUe_j
+
+
+
