@@ -1,7 +1,5 @@
 # QUIZ
 
-## 1st try
-
 ### 01
 
 False
